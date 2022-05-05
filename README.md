@@ -1,3 +1,4 @@
+# V1 still in making! We will update this as soon as possible!
 # OkapiOS
 This is the repository of the operating system OkapiOS.
 

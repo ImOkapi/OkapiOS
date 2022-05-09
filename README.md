@@ -4,6 +4,8 @@ This is the repository of the operating system OkapiOS.
 
 # What is OkapiOS?
 Okapi is a 32-bit CLI operating system made in C and ASM. Its a pretty generic operating system, But we will soon make Okapi a OS with GUI.
+OkapiOS was inspired by the infamous tutorial from **cfenollosa**: os-tutorial. (https://github.com/cfenollosa/os-tutorial)
+We also got help from a youtube video which we can NOT thank ENOUGH! 'Build a 32-bit CLI OS from scratch!' (https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 # How do I run it?
 You can download an IMG/ISO file of Okapi, then run it on QEMU (Quick EMUlator).
